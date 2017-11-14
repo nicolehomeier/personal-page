@@ -1,0 +1,46 @@
+body{
+  font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: rgba(0,0,0,0.7);
+}
+
+.icon-silver{
+  color: silver;
+}
+
+.sm-image{
+  width: 250px;
+  height: 250px;
+}
+#mainmsg {
+  background-color: white;  
+}
+
+#honors {
+  
+}
+
+#speaking {
+  background-color: white;  
+}
+
+#pubs {
+ 
+}
+
+.linunder{
+  border-weight: 1px;
+  border-style: none none solid none;
+  border-color: rgba(0,0,0,0.2)
+}
+.navbar-brand-name {
+  display: inline-block;
+}
+ 
+.text-black-40 {
+  color: rgba(0,0,0,0.4)
+}
+
+.text-white-40 {
+  color: rgba(255,255,255,0.4)
+}
+
